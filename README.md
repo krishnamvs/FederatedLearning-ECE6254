@@ -9,11 +9,12 @@ Flexible Federated Average Learning Simulator with the following abilities:
   - Malicious/Faulty Edge Device Detection using MCD.
   - Ability to correct or fix the Malicious/Faulty Edge Devices.
 
-Usage: 
-  python3 Final.py --dataset DATASET
-DATASET can be 'digits' for MNIST and 'fashion' for Fashion-MNIST.
+Usage:
 
-Optional Flags
+  python3 Final.py --dataset DATASET
+  DATASET can be 'digits' for MNIST and 'fashion' for Fashion-MNIST.
+
+Optional Flags:
 
     --numberOfEdgeDevices NUMBEROFEDGEDEVICES - Default is 200 Devices.
 
