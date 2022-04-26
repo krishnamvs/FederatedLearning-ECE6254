@@ -15,17 +15,17 @@ DATASET can be 'digits' for MNIST and 'fashion' for Fashion-MNIST.
 
 Optional Flags
 
-  --numberOfEdgeDevices NUMBEROFEDGEDEVICES - Default is 200 Devices.
-  
-  --percentageOfDevicesToCollectFrom PERCENTAGEOFDEVICESTOCOLLECTFROM - Default is 10%.
-  
-  --maxIterations MAXITERATIONS - Default is 50.
-  
-  --updateEdgeWeights | --no-updateEdgeWeights - Default is to always update Weights.
-  
-  --numberOfFaultyEdgeDevices NUMBEROFFAULTYEDGEDEVICES - Default is 0 Faulty Edge Devices.
-  
-  --detectOutlier | --no-detectOutlier - Default is to Not Detect Outliers.
-  
-  --correctFault | --no-correctFault - Default is to Not Correct Outliers. Need "--detectOutlier" for option to have an effect.
+    --numberOfEdgeDevices NUMBEROFEDGEDEVICES - Default is 200 Devices.
+
+    --percentageOfDevicesToCollectFrom PERCENTAGEOFDEVICESTOCOLLECTFROM - Default is 10%.
+
+    --maxIterations MAXITERATIONS - Default is 50.
+
+    --updateEdgeWeights | --no-updateEdgeWeights - Default is to always update Weights.
+
+    --numberOfFaultyEdgeDevices NUMBEROFFAULTYEDGEDEVICES - Default is 0 Faulty Edge Devices.
+
+    --detectOutlier | --no-detectOutlier - Default is to Not Detect Outliers.
+
+    --correctFault | --no-correctFault - Default is to Not Correct Outliers. Need "--detectOutlier" for option to have an effect.
   
