@@ -11,8 +11,9 @@ Flexible Federated Average Learning Simulator with the following abilities:
 
 Usage:
 
-  python3 Final.py --dataset DATASET
-  DATASET can be 'digits' for MNIST and 'fashion' for Fashion-MNIST.
+    python3 Final.py --dataset DATASET
+
+    DATASET can be 'digits' for MNIST and 'fashion' for Fashion-MNIST.
 
 Optional Flags:
 
